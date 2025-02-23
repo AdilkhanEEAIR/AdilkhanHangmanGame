@@ -1,0 +1,110 @@
+1)
+Welcome to Hangman!
+The word has 6 letters.
+You have 6 lives left.
+
+Current word: ______
+Lives remaining: 6
+Enter a letter or the whole word: a
+Correct! Word now is: __a___
+
+Current word: __a___
+Lives remaining: 6
+Enter a letter or the whole word: e
+Correct! Word now is: __a_e_
+
+Current word: __a_e_
+Lives remaining: 6
+Enter a letter or the whole word: r
+Correct! Word now is: __a_er
+
+Current word: __a_er
+Lives remaining: 6
+Enter a letter or the whole word: l
+Correct! Word now is: _la_er
+
+Current word: _la_er
+Lives remaining: 6
+Enter a letter or the whole word: y
+Correct! Word now is: _layer
+
+Current word: _layer
+Lives remaining: 6
+Enter a letter or the whole word: s
+Incorrect! Lives remaining: 5
+
+Current word: _layer
+Lives remaining: 5
+Enter a letter or the whole word: p
+Correct! Word now is: player
+Congratulations! You guessed the word: player
+
+
+2)
+Welcome to Hangman!
+The word has 8 letters.
+You have 6 lives left.
+
+Current word: ________
+Lives remaining: 6
+Enter a letter or the whole word: a
+Incorrect! Lives remaining: 5
+
+Current word: ________
+Lives remaining: 5
+Enter a letter or the whole word: y
+Incorrect! Lives remaining: 4
+
+Current word: ________
+Lives remaining: 4
+Enter a letter or the whole word: n
+Incorrect! Lives remaining: 3
+
+Current word: ________
+Lives remaining: 3
+Enter a letter or the whole word: p
+Correct! Word now is: ___p____
+
+Current word: ___p____
+Lives remaining: 3
+Enter a letter or the whole word: ,
+Incorrect! Lives remaining: 2
+
+Current word: ___p____
+Lives remaining: 2
+Enter a letter or the whole word: g
+Incorrect! Lives remaining: 1
+
+Current word: ___p____
+Lives remaining: 1
+Enter a letter or the whole word: r
+Correct! Word now is: ___p___r
+
+Current word: ___p___r
+Lives remaining: 1
+Enter a letter or the whole word: w
+Incorrect! Lives remaining: 0
+Game over! The word was: computer
+
+
+3)
+Welcome to Hangman!
+The word has 4 letters.
+You have 6 lives left.
+
+Current word: ____
+Lives remaining: 6
+Enter a letter or the whole word: a
+Correct! Word now is: _a_a
+
+Current word: _a_a
+Lives remaining: 6
+Enter a letter or the whole word: j
+Correct! Word now is: ja_a
+
+Current word: ja_a
+Lives remaining: 6
+Enter a letter or the whole word: v
+Correct! Word now is: java
+Congratulations! You guessed the word: java
+
